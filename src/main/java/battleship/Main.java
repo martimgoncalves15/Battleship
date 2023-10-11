@@ -13,11 +13,11 @@ public class Main
     /**
      * @param args
      */
-    static void main(String[] args)
+    public static void main(String[] args)
     {
 	System.out.println("***  Battleship  ***");
 
-	Tasks.taskA();
+//	Tasks.taskA();
 //	Tasks.taskB();
 //	Tasks.taskC();
 //	Tasks.taskD();
